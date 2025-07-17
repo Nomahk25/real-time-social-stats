@@ -1,0 +1,17 @@
+{
+  "youtube": {
+    "followers": 12000,
+    "likes": 340,
+    "engagement": [150, 180, 220, 200, 240]
+  },
+  "twitter": {
+    "followers": 8700,
+    "likes": 210,
+    "engagement": [100, 130, 150, 160, 170]
+  },
+  "instagram": {
+    "followers": 15300,
+    "likes": 470,
+    "engagement": [200, 230, 280, 260, 300]
+  }
+}
