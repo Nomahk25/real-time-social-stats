@@ -28,7 +28,10 @@ This project is a stylish and responsive Social Media Dashboard that visually di
 ## 🧪 How to Run
 
 1. Clone this repository
-2. Install Flask if not already:
+```
+git clone https://github.com/Nomahk25/real-time-social-stats.git
+```
+3. Install Flask if not already:
    ```bash
    pip install flask
 
